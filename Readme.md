@@ -7,7 +7,7 @@ A modern React.js application to manage books with full CRUD capabilities. Built
 2)Fill in Your api credeentials from crudcrud.com
 3)VITE_API_BASE_URL= Your Api
 4)npm install
-5)nom run
+5)npm run
 
  Key Features
 
