@@ -2,6 +2,13 @@ Book Management Dashboard
 
 A modern React.js application to manage books with full CRUD capabilities. Built with Vite, TailwindCSS, Redux Toolkit, Context API, and structured using the MVP pattern.
 
+##SetUp--
+1)Copy the .env.example to your .env
+2)Fill in Your api credeentials from crudcrud.com
+3)VITE_API_BASE_URL= Your Api
+4)npm install
+5)nom run
+
  Key Features
 
 Dashboard View: Browse books in either a table or grid layout with a toggle option.
